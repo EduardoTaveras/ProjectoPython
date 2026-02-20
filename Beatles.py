@@ -19,4 +19,5 @@ print(f"\nPaso 5: El grupo finalmente es: {banda}")
 
 print(f"\nPaso 6: La cantidad de miembros es:  {len(banda)}")
 
-print(f"\nPaso 7: Este es un cambio para la tarea de las ramas")
+print(f"\nPaso 7: Estoy agragando esta linea")
+print(f"\nPaso 8: Otra linea mas")
